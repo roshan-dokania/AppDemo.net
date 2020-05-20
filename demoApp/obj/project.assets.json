@@ -1598,11 +1598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abhishek/Desktop/untitled folder/demoApp/demoApp/demoApp.csproj",
+      "projectUniqueName": "/Users/abhishek/Desktop/untitled folder/local repo/AppDemo.net/demoApp/demoApp.csproj",
       "projectName": "demoApp",
-      "projectPath": "/Users/abhishek/Desktop/untitled folder/demoApp/demoApp/demoApp.csproj",
+      "projectPath": "/Users/abhishek/Desktop/untitled folder/local repo/AppDemo.net/demoApp/demoApp.csproj",
       "packagesPath": "/Users/abhishek/.nuget/packages/",
-      "outputPath": "/Users/abhishek/Desktop/untitled folder/demoApp/demoApp/obj/",
+      "outputPath": "/Users/abhishek/Desktop/untitled folder/local repo/AppDemo.net/demoApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abhishek/.config/NuGet/NuGet.Config"
